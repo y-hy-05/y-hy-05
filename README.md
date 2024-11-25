@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Yahya Jmilou! 👋
 
-<!--
-**y-hy-05/y-hy-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** from Morocco 🌍, specializing in creating modern, responsive, and user-friendly web applications. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Skills:
+- **Frontend**: React.js, Tailwind CSS, JavaScript
+- **Backend**: Laravel, Inertia.js, RESTful APIs
+- **Other Tools**: Git, Figma, MySQL
+
+---
+
+### 🌱 Currently Learning:
+- Advanced Laravel techniques
+- Improving my German (B1 certified 🇩🇪)
+
+---
+
+### 📌 Featured Projects:
+- [Burnousi Orphanage Website](#)
+- [Portfolio Website](#)
+
+---
+
+### 🤝 Let's Connect:
+- [LinkedIn](#)
+- [Portfolio](#)
+- [Email](mailto:example@example.com)
