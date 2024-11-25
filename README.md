@@ -12,12 +12,13 @@ I'm a passionate **Web Developer** from Morocco 🌍, specializing in creating m
 ---
 
 ### 📌 Featured Projects:
-- [Burnousi Orphanage Website](youtube.com)
-- [Portfolio Website](#)
+- Burnousi Orphanage (website)
+- Lionsgeek.ma (website)
+- Lionsgeek Backend (web App)
 
 ---
 
 ### 🤝 Let's Connect:
-- [LinkedIn](#)
-- [Portfolio](#)
-- [Email](mailto:example@example.com)
+- [LinkedIn]("https://www.linkedin.com/in/yahya-jmilou-07567628a/")
+- [Portfolio]("yahyacodes.vercel.app")
+- [Email](yahyajmilou06@.com)
