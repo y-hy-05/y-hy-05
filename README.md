@@ -20,5 +20,5 @@ I'm a passionate **Web Developer** from Morocco 🌍, specializing in creating m
 
 ### 🤝 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/yahya-jmilou-07567628a/)
-- [Portfolio](yahyacodes.vercel.app)
+- [Portfolio](https://yahyacodes.vercel.app/)
 - [Email](mailto:yahyajmilou06@.com)
