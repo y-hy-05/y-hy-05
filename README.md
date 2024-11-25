@@ -6,19 +6,13 @@ I'm a passionate **Web Developer** from Morocco 🌍, specializing in creating m
 
 ### 🌟 Skills:
 - **Frontend**: React.js, Tailwind CSS, JavaScript
-- **Backend**: Laravel, Inertia.js, RESTful APIs
-- **Other Tools**: Git, Figma, MySQL
-
----
-
-### 🌱 Currently Learning:
-- Advanced Laravel techniques
-- Improving my German (B1 certified 🇩🇪)
+- **Backend**: Laravel, RESTful APIs
+- **Other Tools**: Git, Figma ...
 
 ---
 
 ### 📌 Featured Projects:
-- [Burnousi Orphanage Website](#)
+- [Burnousi Orphanage Website](youtube.com)
 - [Portfolio Website](#)
 
 ---
